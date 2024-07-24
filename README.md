@@ -1,6 +1,3 @@
-Claro! Aqui está um `README.md` completo para o backend que criamos:
-
-````markdown
 # Image DOCX Generator
 
 Este projeto é um servidor backend em Node.js que permite o upload de múltiplas imagens e gera um
@@ -68,7 +65,7 @@ curl -X POST http://localhost:3001/generate-doc \
   -F 'images=@/caminho/para/sua/imagem1.jpg' \
   -F 'images=@/caminho/para/sua/imagem2.png'
 ```
-````
+
 
 ## Dependências
 
